@@ -1,0 +1,11 @@
+*.project
+*.prefs
+*.classpath
+*.settings/
+**/target/
+**/test-output/
+com.hotelbeds.service.domain.contract.accommodation/src/main/java
+*.iml
+*.bat
+*.idea
+.idea/
